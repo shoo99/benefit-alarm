@@ -1,6 +1,6 @@
 {
-  "lastFetchedAt": "2026-08-13T08:43:00.131Z",
-  "lastFetchedAtApi": "20260813174300",
+  "lastFetchedAt": "2026-08-13T14:40:39.283Z",
+  "lastFetchedAtApi": "20260813234039",
   "count": 10963,
   "conditionCount": 10963,
   "conditionedRatio": 1,
@@ -23,5 +23,7 @@
     }
   ],
   "schemaVersion": 1,
-  "detailShards": 40
+  "detailShards": 40,
+  "aiEnriched": 20,
+  "aiWithAmount": 7
 }
