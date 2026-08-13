@@ -1,0 +1,27 @@
+{
+  "lastFetchedAt": "2026-08-13T08:43:00.131Z",
+  "lastFetchedAtApi": "20260813174300",
+  "count": 10963,
+  "conditionCount": 10963,
+  "conditionedRatio": 1,
+  "unknownCodePrefixes": [
+    {
+      "prefix": "JA03",
+      "rows": 57449
+    },
+    {
+      "prefix": "JA22",
+      "rows": 1632
+    },
+    {
+      "prefix": "JA21",
+      "rows": 1156
+    },
+    {
+      "prefix": "JA12",
+      "rows": 872
+    }
+  ],
+  "schemaVersion": 1,
+  "detailShards": 40
+}
