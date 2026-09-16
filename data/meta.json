@@ -1,13 +1,13 @@
 {
-  "lastFetchedAt": "2026-09-15T20:40:26.040Z",
-  "lastFetchedAtApi": "20260916054026",
+  "lastFetchedAt": "2026-09-16T20:40:25.242Z",
+  "lastFetchedAtApi": "20260917054025",
   "count": 11021,
   "conditionCount": 11021,
   "conditionedRatio": 1,
   "unknownCodePrefixes": [
     {
       "prefix": "JA03",
-      "rows": 57278
+      "rows": 57262
     },
     {
       "prefix": "JA22",
@@ -15,7 +15,7 @@
     },
     {
       "prefix": "JA21",
-      "rows": 1170
+      "rows": 1171
     },
     {
       "prefix": "JA12",
