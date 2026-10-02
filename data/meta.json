@@ -1,8 +1,8 @@
 {
   "lastFetchedAt": "2026-10-01T20:40:30.326Z",
   "lastFetchedAtApi": "20261002054030",
-  "count": 11039,
-  "conditionCount": 11039,
+  "count": 10949,
+  "conditionCount": 10949,
   "conditionedRatio": 1,
   "unknownCodePrefixes": [
     {
@@ -24,9 +24,10 @@
   ],
   "sortedBy": "views",
   "viewsCoverage": 0.999,
-  "phoneCoverage": 0.999,
+  "phoneCoverage": 1,
   "schemaVersion": 1,
+  "prunedDeleted": 90,
   "detailShards": 40,
   "aiEnriched": 519,
-  "aiWithAmount": 177
+  "aiWithAmount": 168
 }
