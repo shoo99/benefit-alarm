@@ -1,6 +1,6 @@
 {
-  "lastFetchedAt": "2026-10-28T20:40:35.206Z",
-  "lastFetchedAtApi": "20261029054035",
+  "lastFetchedAt": "2026-10-29T20:40:40.601Z",
+  "lastFetchedAtApi": "20261030054040",
   "count": 10942,
   "conditionCount": 10942,
   "conditionedRatio": 1,
@@ -26,7 +26,7 @@
   "viewsCoverage": 0.999,
   "phoneCoverage": 1,
   "schemaVersion": 1,
-  "prunedDeleted": 9,
+  "prunedDeleted": 0,
   "detailShards": 40,
   "aiEnriched": 519,
   "aiWithAmount": 168
