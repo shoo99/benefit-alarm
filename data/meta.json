@@ -1,13 +1,13 @@
 {
-  "lastFetchedAt": "2026-11-20T20:40:53.004Z",
-  "lastFetchedAtApi": "20261121054053",
-  "count": 10842,
-  "conditionCount": 10892,
+  "lastFetchedAt": "2026-11-21T20:40:58.566Z",
+  "lastFetchedAtApi": "20261122054058",
+  "count": 10843,
+  "conditionCount": 10893,
   "conditionedRatio": 1,
   "unknownCodePrefixes": [
     {
       "prefix": "JA03",
-      "rows": 57095
+      "rows": 57096
     },
     {
       "prefix": "JA22",
@@ -26,7 +26,7 @@
   "viewsCoverage": 0.999,
   "phoneCoverage": 1,
   "schemaVersion": 1,
-  "prunedDeleted": 1,
+  "prunedDeleted": 0,
   "detailShards": 40,
   "aiEnriched": 519,
   "aiWithAmount": 162
